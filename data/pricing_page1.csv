@@ -1,0 +1,76 @@
+roof_type,width_ft,length_ft,price_usd,source_page
+Vertical,12,20,1695,1
+Vertical,18,20,1795,1
+Vertical,20,20,1995,1
+Vertical,22,20,2395,1
+Vertical,24,20,2495,1
+Vertical,12,25,2095,1
+Vertical,18,25,2195,1
+Vertical,20,25,2495,1
+Vertical,22,25,2995,1
+Vertical,24,25,3095,1
+Vertical,12,30,2495,1
+Vertical,18,30,2695,1
+Vertical,20,30,3095,1
+Vertical,22,30,3595,1
+Vertical,24,30,3795,1
+Vertical,12,35,2895,1
+Vertical,18,35,3095,1
+Vertical,20,35,3595,1
+Vertical,22,35,4195,1
+Vertical,24,35,4395,1
+Vertical,12,40,3395,1
+Vertical,18,40,3595,1
+Vertical,20,40,4095,1
+Vertical,22,40,4795,1
+Vertical,24,40,4995,1
+Vertical,12,45,3790,1
+Vertical,18,45,3990,1
+Vertical,20,45,4490,1
+Vertical,22,45,5390,1
+Vertical,24,45,5590,1
+Vertical,12,50,4190,1
+Vertical,18,50,4390,1
+Vertical,20,50,4990,1
+Vertical,22,50,5990,1
+Vertical,24,50,6190,1
+Boxed Eave,12,20,1395,1
+Boxed Eave,18,20,1595,1
+Boxed Eave,20,20,1795,1
+Boxed Eave,22,20,1995,1
+Boxed Eave,24,20,2295,1
+Boxed Eave,12,25,1795,1
+Boxed Eave,18,25,1895,1
+Boxed Eave,20,25,2195,1
+Boxed Eave,22,25,2495,1
+Boxed Eave,24,25,2795,1
+Boxed Eave,12,30,2195,1
+Boxed Eave,18,30,2295,1
+Boxed Eave,20,30,2695,1
+Boxed Eave,22,30,3095,1
+Boxed Eave,24,30,3395,1
+Boxed Eave,12,35,2495,1
+Boxed Eave,18,35,2695,1
+Boxed Eave,20,35,3095,1
+Boxed Eave,22,35,3595,1
+Boxed Eave,24,35,3995,1
+Regular,12,20,1295,1
+Regular,18,20,1395,1
+Regular,20,20,1695,1
+Regular,22,20,1895,1
+Regular,24,20,1995,1
+Regular,12,25,1595,1
+Regular,18,25,1695,1
+Regular,20,25,1995,1
+Regular,22,25,2295,1
+Regular,24,25,2495,1
+Regular,12,30,1795,1
+Regular,18,30,1895,1
+Regular,20,30,2395,1
+Regular,22,30,2695,1
+Regular,24,30,2995,1
+Regular,12,35,1995,1
+Regular,18,35,2195,1
+Regular,20,35,2795,1
+Regular,22,35,3095,1
+Regular,24,35,3395,1
